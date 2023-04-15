@@ -1,4 +1,4 @@
-# Gridea-Next-Expert
+# Gridea-Theme-Next-Expert
 
 为 Next 主题修改而来：
 
